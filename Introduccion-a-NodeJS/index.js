@@ -3,4 +3,5 @@ function Saluda(nombre) {
     console.log(`Hola ${nombre}`);
 }
 
+// Llamamos a la función Saluda con el argumento 'Pipe!'
 Saluda('Pipe!');
